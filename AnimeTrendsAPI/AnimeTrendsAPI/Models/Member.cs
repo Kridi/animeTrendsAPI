@@ -12,5 +12,6 @@ namespace AnimeTrendsAPI.Models
         public string Date { get; set; }
         public string Email { get; set; }
         public string Nick { get; set; }
+        public string Password { get; set; }
     }
 }
